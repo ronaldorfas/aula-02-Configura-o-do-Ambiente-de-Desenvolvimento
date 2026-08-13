@@ -8,18 +8,22 @@
 
 ## 📚 Sumário
 
-1. 🔄 Introdução ao Versionamento
-2. 🔢 Versionamento Semântico — SemVer
-3. 🐙 Git e Controle de Versão
-4. 🏷️ Tags e Branches
-5. 💻 IDE e Visual Studio Code
-6. 🟢 Node.js
-7. 📦 NPM
-8. ⚛️ Criação de Projetos React
-9. 📁 Estrutura de um Projeto React
-10. 🚀 Deploy e Hospedagem com Vercel
-11. 📝 Atividade Prática
-12. 📌 Resumo Geral
+1. [🔄 Introdução ao Versionamento](#1--introdução-ao-versionamento)
+2. [🔢 Versionamento Semântico — SemVer](#2--versionamento-semântico--semver)
+3. [🐙 Git e Controle de Versão](#3--git-e-controle-de-versão)
+4. [🏷️ Tags e Branches](#4--tags-no-git)
+5. [💻 IDE e Visual Studio Code](#5--ide-e-visual-studio-code)
+6. [🟢 Node.js](#6--nodejs)
+7. [📦 NPM — Node Package Manager](#7--npm--node-package-manager)
+8. [⚛️ Criação de Projetos React](#8--criando-um-projeto-react)
+9. [📁 Estrutura de um Projeto React](#9--estrutura-do-projeto-react)
+10. [🚀 Deploy e Vercel](#10--deploy)
+11. [📝 Atividade Prática](#11--atividade-prática)
+12. [📋 Atividade Complementar](#12--atividade-complementar)
+13. [🧠 Resumo para Estudo](#13--resumo-para-estudo)
+14. [🎯 O que você precisa saber para a prova/atividade?](#14--o-que-você-precisa-saber-para-a-provaatividade)
+15. [📌 Comandos Principais](#15--comandos-principais)
+16. [🏁 Conclusão](#16--conclusão)
 
 ---
 
@@ -413,24 +417,29 @@ Registra informações relacionadas às dependências utilizadas pelo projeto.
 
 ---
 
-# 11. 🧩 Principais Arquivos React
+# 11. 📝 Atividade Prática
 
-### `index.js`
+A atividade proposta consiste em desenvolver uma aplicação React utilizando o **Visual Studio Code** como ambiente de desenvolvimento.
 
-É o ponto de entrada do React e realiza a renderização da aplicação no DOM.
+O projeto deverá:
 
-### `App.js`
+1. ⚛️ Desenvolver uma aplicação React;
+2. 💻 Utilizar o VS Code;
+3. 🐙 Utilizar Git para versionamento;
+4. 📌 Realizar commits;
+5. 📤 Fazer push para um repositório no GitHub;
+6. ▲ Publicar a aplicação na Vercel;
+7. 🔗 Conectar o repositório à Vercel;
+8. 🌎 Disponibilizar o projeto através de uma URL pública da Vercel.
 
-É o componente raiz da aplicação.
+---
 
-### `App.css`
+## 🔗 Link do Projeto
 
-Contém estilos relacionados ao componente `App`.
+**🌎 Projeto publicado na Vercel:**
 
-### `index.css`
-
-Contém estilos globais que podem afetar toda a aplicação.
-
+```text
+COLE_AQUI_O_LINK_DO_PROJETO
 ---
 
 # 12. 🚀 Deploy
