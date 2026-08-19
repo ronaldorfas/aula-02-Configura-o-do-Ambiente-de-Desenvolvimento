@@ -404,17 +404,13 @@ O projeto deverá:
 
 **URL:**
 
-```text
-[COLE_AQUI_O_LINK_DO_PROJETO](https://projeto-aula2-lemon.vercel.app)
-```
+https://projeto-aula2-lemon.vercel.app
 
 ### 🐙 Repositório no GitHub
 
 **URL:**
 
-```text
 https://github.com/ronaldorfas/projeto-aula2
-```
 
 <a href="#sumario">⬆️ Voltar ao Sumário</a>
 
