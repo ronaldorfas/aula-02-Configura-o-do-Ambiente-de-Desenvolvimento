@@ -413,7 +413,7 @@ COLE_AQUI_O_LINK_DO_PROJETO
 **URL:**
 
 ```text
-(https://github.com/ronaldorfas/projeto-aula2)
+https://github.com/ronaldorfas/projeto-aula2
 ```
 
 ### 📌 Exemplo
