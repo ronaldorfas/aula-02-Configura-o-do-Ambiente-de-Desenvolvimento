@@ -405,7 +405,7 @@ O projeto deverá:
 **URL:**
 
 ```text
-COLE_AQUI_O_LINK_DO_PROJETO
+[COLE_AQUI_O_LINK_DO_PROJETO](https://projeto-aula2-lemon.vercel.app)
 ```
 
 ### 🐙 Repositório no GitHub
@@ -415,15 +415,6 @@ COLE_AQUI_O_LINK_DO_PROJETO
 ```text
 https://github.com/ronaldorfas/projeto-aula2
 ```
-
-### 📌 Exemplo
-
-```text
-https://projeto-aula2-lemon.vercel.app
-https://github.com/seu-usuario/meu-projeto
-```
-
----
 
 <a href="#sumario">⬆️ Voltar ao Sumário</a>
 
