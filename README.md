@@ -413,13 +413,13 @@ COLE_AQUI_O_LINK_DO_PROJETO
 **URL:**
 
 ```text
-[COLE_AQUI_O_LINK_DO_GITHUB](https://github.com/ronaldorfas/projeto-aula2)
+(https://github.com/ronaldorfas/projeto-aula2)
 ```
 
 ### 📌 Exemplo
 
 ```text
-https://meu-projeto.vercel.app
+https://projeto-aula2-lemon.vercel.app
 https://github.com/seu-usuario/meu-projeto
 ```
 
